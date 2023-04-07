@@ -8,3 +8,4 @@ https://nargizasaina.github.io/Adaptive-Layout-2/index.html
 
 * Adaptive page: on any width of the screen from 320px
 * Bootstrap components are used for design
+* Burger menu
